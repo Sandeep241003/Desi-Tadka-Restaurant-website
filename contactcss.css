@@ -1,0 +1,59 @@
+*{
+    font-family: sans-serif;
+}
+th{
+    font-size: 21px;
+}
+th a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+th a:hover
+{
+    color: white;
+}
+#banner{
+    background-image: url("banner2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#heading{
+    font-family:  'Amatic SC', cursive;
+    color: ;
+}
+#head{
+    font-size: 40px;
+    color: orangered;
+}
+#contactd{
+    margin-left: 50px;
+    font-size: 20px;
+}
+#footer{
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+    background-image: url("footer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#inquiry{
+    font-size: 30px;
+    border-bottom: 1px;
+}
+input{
+    width: 500px;
+    height: 40px;
+    outline: 1px;
+    border: none;
+    border-bottom: 1px solid silver;
+    font-size: 16px;
+    padding-left: 15px;
+}
